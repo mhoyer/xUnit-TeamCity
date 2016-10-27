@@ -8,4 +8,5 @@ A xUnit runner for TeamCity. Supports tests written with xUnit 1.9.2, 2.0.0, 2.1
 
 # Download
 Get the original release here: https://github.com/carlpett/xUnit-TeamCity/releases/latest.
+
 Get the latest release here: https://github.com/JoggeDK/xUnit-TeamCity.
