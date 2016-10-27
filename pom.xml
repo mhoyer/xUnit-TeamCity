@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>se.capeit.dev</groupId>
   <artifactId>xunitplugin</artifactId>
-  <version>1.1.0</version>
+  <version>1.1.3a</version>
   <packaging>pom</packaging>
   <properties>
       <teamcity-version>9.0</teamcity-version>

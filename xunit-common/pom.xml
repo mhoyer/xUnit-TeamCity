@@ -4,7 +4,7 @@
   <parent>
     <artifactId>xunitplugin</artifactId>
     <groupId>se.capeit.dev</groupId>
-    <version>1.1.0</version>
+    <version>1.1.3a</version>
   </parent>
   <artifactId>xunit-common</artifactId>
   <packaging>jar</packaging>
